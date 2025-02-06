@@ -27,32 +27,32 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/OktaModz'
-global.syt = 'https://youtu.be/ChataOfc-'
-global.sgh = 'https://github.com/ChataOfc'
-global.sgc = 'https://chat.whatsapp.com/JVQ60oSsvJ1CtscEwmtXzk'
-global.swa = 'wa.me/6285731947500'
+global.sig = '-'
+global.syt = '-'
+global.sgh = '-'
+global.sgc = 'https://chat.whatsapp.com /Gp9ownwcoVz8TOBpXzH3w1'
+global.swa = 'wa.me/6285876648286'
 global.swb = 'https://'
-global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
+global.snh = '-' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
 global.pdana = '085731947500'
 global.povo = '-'
-global.pgopay = '085731947500'
-global.ppulsa = '085731947500'
-global.ppulsa2 = '085749543572'
-global.psaweria = 'https://saweria.co/oktakc'
+global.pgopay = '6285876648286'
+global.ppulsa = '6285876648286'
+global.ppulsa2 = '6285876648286'
+global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285749543572'
-global.nomorown = '6285731947500'
-global.namebot = 'Nakano Nino'
-global.nameown = 'Okta'
+global.nomorbot = '6285876648286'
+global.nomorown = '6285876648286'
+global.namebot = 'lonely-botz👾'
+global.nameown = 'lonely punya nana👾'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285731947500', 'Okta', 'true']
+  ['6285876648286', 'lonely', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -103,16 +103,16 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'Nakano Ninoラ | By Okta' //Main Watermark
-global.wm2 = 'Okta'
-global.wm3 = 'Jangan Lupa Subscribe ChataOfc-'
+global.wm = 'lonely | By lonely' //Main Watermark
+global.wm2 = 'lonely'
+global.wm3 = '_maaf jika bot ini menggangu_'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `NinoBotzラ | ʙʏ ${global.nameown}`
-global.author = 'Okta' 
-global.packname = 'ChataOfc'
+global.titlebot = `lonely-botz👾 | ʙʏ ${global.nameown}`
+global.author = 'lonely' 
+global.packname = 'lonely...'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
-global.ultahowner = 'November 4 2023'
+global.ultahowner = '10.06.09'
 
 
 /*============== LOGO ==============*/
@@ -124,14 +124,14 @@ global.thumbs = ['https://telegra.ph/file/7db49c83fd106a60741cd.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.thumbBanned = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
-global.botintro = 'Hallo, Kenalin saya Nakano Nino Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *Okta* Saya di rilis pada tanggal\n🗓 ️_22/01/2023_'
+global.botintro = 'Hallo, Kenalin saya lonely-botz👾 Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *lonely* Saya di rilis pada tanggal\n🗓 ️_22/01/2023_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'Okta'
+global.nameowner = 'lonely'
 global.umurowner = '16'
 global.asalowner = 'Indonesia'
-global.nomorowner = 'wa.me/6285731947500'
-global.pacarowner = 'Chaca'
+global.nomorowner = 'wa.me/6285876648286'
+global.pacarowner = 'Nana'
 
 /*============== TEXT ==============*/
 global.wait = '```𝙇𝙤𝙖𝙙𝙞𝙣𝙜...```'
